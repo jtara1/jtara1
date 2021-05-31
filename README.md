@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtara1)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-My favorite languages: Javascript, Python, & Rust
+My favorite languages: JavaScript, Python, & Rust
 
 [![My Most Used Languages in Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=jtara1&layout=compact&hide=html,OpenEdge%20ABL,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
 
