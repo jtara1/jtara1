@@ -4,7 +4,7 @@
 
 My favorite languages: JavaScript, Python, & Rust
 
-[![My Most Used Languages in Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=jtara1&layout=compact&hide=html,OpenEdge%20ABL,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+[![My Most Used Languages in Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=jtara1&layout=compact&hide=html,OpenEdge%20ABL,ShaderLab&custom_title=Most%20Used%20Languages%20(Public%20Repos))](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jtara1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
