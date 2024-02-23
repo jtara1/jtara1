@@ -1,9 +1,18 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtara1)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-My favorite languages: JavaScript, Python, & Rust
-
+```
+ ________________________________________________________
+/\                                                       \
+\_|  _   _      _ _                             _     _  |
+  | | | | | ___| | | ___    __      _____  _ __| | __| | |
+  | | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
+  | |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| | |
+  | |_| |_|\___|_|_|\___( )   \_/\_/ \___/|_|  |_|\__,_| |
+  |                     |/                               |
+  |   ___________________________________________________|_
+   \_/_____________________________________________________/
+```
 [![My Most Used Languages in Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=jtara1&layout=compact&hide=html,OpenEdge%20ABL,ShaderLab&custom_title=Most%20Used%20Languages%20(Public))](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
