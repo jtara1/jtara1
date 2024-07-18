@@ -10,9 +10,6 @@
   |   ___________________________________________________|_
    \_/_____________________________________________________/
 ```
-[![My Most Used Languages in Public Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=jtara1&layout=compact&hide=html,OpenEdge%20ABL,ShaderLab&custom_title=Most%20Used%20Languages%20(Public))](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **jtara1/jtara1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
